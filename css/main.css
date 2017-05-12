@@ -1,1 +1,50 @@
 /* Escribe acá tus estilos*/
+
+/* open sans, 
+link de la fuente se copia bajo el titulo del html  */
+
+
+
+body { 
+
+margin: 
+background-color: rgb(66.7, 33.3, 52.2);
+width: 100%;
+text-align: center;
+ 
+font-family: open sans;  
+
+
+ }
+
+
+ header h1 {
+ 	font-size: 40px;
+ 	background-color: ;
+ }
+
+
+#formulario{
+	background-color: 
+	width: 80px;
+	margin: 0 auto;
+	padding:;
+	margin-top: 20px;
+}
+
+#formulario p{
+color: 
+}
+
+
+.formulario-te input{
+	display: block;
+	width: 100%;
+	background-color: rgba(255,255,255, 0.2);
+	border: 1px solid rgba(245,245,245, 0.5);
+
+}
+
+.formulario-te label {
+    
+}
